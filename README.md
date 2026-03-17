@@ -19,6 +19,8 @@
       - 8
 ```
 
+<img width="253" height="149" alt="изображение" src="https://github.com/user-attachments/assets/1836b4a9-c626-4986-a42e-f1738046f9d3" />
+
 -- 3. Добавлена возможность сделать обводку стеклом. Использование (config.yml): 
 ```
     Filler_1:
@@ -50,8 +52,9 @@
         - 52
 ```
 
+<img width="359" height="258" alt="изображение" src="https://github.com/user-attachments/assets/2a71a91f-f4c0-4077-b7e3-19ecd9f82bf5" />
 
--- 3. Добавлена анимация при открытии меню. Использование (config.yml): 
+-- 4. Добавлена анимация при открытии меню. Использование (config.yml): 
 ```
   Animation:
     Enabled: true
