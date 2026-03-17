@@ -1,0 +1,11 @@
+name: CrazyAuctions
+authors:
+  - BadBones69
+  - sputn1koff
+main: com.badbones69.crazyauctions.Main
+version: ${version}${build.number}
+depend: [Vault]
+api-version: 1.13
+commands:
+  ca:
+    aliases: [ah, auc, auction]
