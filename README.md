@@ -1,3 +1,72 @@
+# Что было изменено в плагине?
+
+-- 1. Добавлена поддержка кастомных голов Base64. Использование: 
+`Item: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzIxZDA5MzBiZDYxZmVhNGNiOTAyN2IwMGU5NGUxM2Q2MjAyOWM1MjRlYTBiMzI2MGM3NDc0NTdiYTFiY2ZhMSJ9fX0='`
+<img width="383" height="96" alt="изображение" src="https://github.com/user-attachments/assets/f22b24fe-1c28-4ba1-976d-dd9ef93e088f" />
+
+-- 2. Теперь можно сделать в каких слотах будут вещи игроков. Использование (config.yml): 
+```
+    DisplaySlots:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+```
+
+-- 3. Добавлена возможность сделать обводку стеклом. Использование (config.yml): 
+```
+    Filler_1:
+      Item: 'light_blue_stained_glass_pane'
+      Name: 'by HexStudio'
+      Lore: []
+      Slots:
+        - 0
+        - 9
+        - 18
+        - 27
+        - 36
+        - 45
+        - 8
+        - 17
+        - 26
+        - 35
+        - 44
+        - 53
+
+    Filler_2:
+      Item: 'blue_stained_glass_pane'
+      Name: 'by HexStudio'
+      Lore: []
+      Slots:
+        - 1
+        - 7
+        - 46
+        - 52
+```
+
+
+-- 3. Добавлена анимация при открытии меню. Использование (config.yml): 
+```
+  Animation:
+    Enabled: true
+    Type: "RANDOM" # CENTER, RIGHT, LEFT, TOP_DOWN, BOTTOM_UP, RANDOM
+    DelayTicks: 2
+    FillerMaterial: "AIR"
+    FillerName: ""
+    Sound:
+      Enabled: true
+      Name: "BLOCK_METAL_PLACE"
+      Volume: 0.5
+      Pitch: 1.5
+```
+
+---------------------------------------------------------------------
+
 # Crazy Auctions - Issues tab has been disabled, A rewrite is pending.
 Source Code for Crazy Auctions
 
