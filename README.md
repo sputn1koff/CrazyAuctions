@@ -2,6 +2,7 @@
 
 -- 1. Добавлена поддержка кастомных голов Base64. Использование: 
 `Item: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzIxZDA5MzBiZDYxZmVhNGNiOTAyN2IwMGU5NGUxM2Q2MjAyOWM1MjRlYTBiMzI2MGM3NDc0NTdiYTFiY2ZhMSJ9fX0='`
+
 <img width="383" height="96" alt="изображение" src="https://github.com/user-attachments/assets/f22b24fe-1c28-4ba1-976d-dd9ef93e088f" />
 
 -- 2. Теперь можно сделать в каких слотах будут вещи игроков. Использование (config.yml): 
