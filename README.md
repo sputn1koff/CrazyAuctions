@@ -1,6 +1,6 @@
 # Что было изменено в плагине?
 
-##1. Добавлена поддержка кастомных голов Base64. Использование: 
+## 1. Добавлена поддержка кастомных голов Base64. Использование: 
 ```
 Item: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzIxZDA5MzBiZDYxZmVhNGNiOTAyN2IwMGU5NGUxM2Q2MjAyOWM1MjRlYTBiMzI2MGM3NDc0NTdiYTFiY2ZhMSJ9fX0='
 ```
@@ -73,6 +73,9 @@ Item: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQub
       Volume: 0.5
       Pitch: 1.5
 ```
+
+![03171-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e2644b8f-b040-4223-a227-594b7844dc87)
+
 
 ---------------------------------------------------------------------
 
